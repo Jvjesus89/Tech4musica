@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"name": "eureka-server",
+			"path": "eureka-server"
+		},
+		{
+			"name": "gateway",
+			"path": "gateway"
+		},
+		{
+			"name": "artista",
+			"path": "artista"
+		},
+		{
+			"name": "musica",
+			"path": "musica"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic"
+	}
+}
